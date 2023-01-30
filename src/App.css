@@ -36,24 +36,25 @@
     transform: rotate(360deg);
   }
 }body{
-  background-image: url(C:/Users/Ousmane/Desktop/newprojet/back4.jpg);
+  background-color: rgba(119, 117, 117, 0.295);
   background-size: cover;
   color: black;
   font-family: 'Times New Roman', Times, serif;
 }
-.tit{
-  font-size: 65px;
-  font-family: 'Times New Roman', Times, serif;
-}
-.logo{
-  margin-right: 800px;
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 50px;
-}
+
 .App{
   margin: 30px;
   height: 580px;
   width: 550px;
   justify-content: center;
   margin-left: 410px;
+}
+.name{
+  font-size: 30px;
+  background-color: darkgrey;
+}
+.name2{
+  font-size: 30px;
+  background-color: black;
+  color: white;
 }
